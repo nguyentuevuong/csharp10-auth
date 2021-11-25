@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "csharp10-auth": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56177;http://localhost:56178"
+    }
+  }
+}
